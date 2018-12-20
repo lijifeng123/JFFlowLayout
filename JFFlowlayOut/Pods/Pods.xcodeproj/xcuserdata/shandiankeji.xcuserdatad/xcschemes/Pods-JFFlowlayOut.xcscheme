@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1ED5E5C1B8A73128A6302EB96448A773"
+               BlueprintIdentifier = "520B0395D182EC8FAC76473CA6B4F0BF"
                BlueprintName = "Pods-JFFlowlayOut"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "libPods-JFFlowlayOut.a">
