@@ -561,6 +561,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F9826F6973B75D2055B63695 /* Pods-JFFlowlayOut.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = JFFlowlayOut/Info.plist;
@@ -586,6 +587,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5CE42B71644574C9A5C799B6 /* Pods-JFFlowlayOut.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = JFFlowlayOut/Info.plist;
