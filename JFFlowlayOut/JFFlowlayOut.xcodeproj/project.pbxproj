@@ -199,6 +199,7 @@
 		9684918B21CA66BC0011872C /* JFFlowlayOut */ = {
 			isa = PBXGroup;
 			children = (
+				9624961B21CB743E002962FA /* Masonry */,
 				968491BE21CA66F00011872C /* JFFlowLayout */,
 				9684918C21CA66BC0011872C /* AppDelegate.h */,
 				9684918D21CA66BC0011872C /* AppDelegate.m */,
@@ -234,7 +235,6 @@
 		968491BE21CA66F00011872C /* JFFlowLayout */ = {
 			isa = PBXGroup;
 			children = (
-				9624961B21CB743E002962FA /* Masonry */,
 				968491BF21CA66F00011872C /* JFFlowLayout.h */,
 				968491C021CA66F00011872C /* JFFlowLayout.m */,
 			);
