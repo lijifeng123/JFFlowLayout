@@ -23,7 +23,6 @@ Pod::Spec.new do |s|
   s.source_files  = "FlowLayoutLabel/FlowLayoutLabel/JFFlowLayout/*.{h,m}"
   #是否支持ARC
   s.requires_arc = true
-  s.framework  = "UIKit"
   s.dependency "Masonry"
 
 end
