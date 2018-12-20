@@ -23,11 +23,11 @@ git pull origin $tempbarch
 
 git push origin $tempbarch
 
-git push origin --delete tag 1.1.1
+git push origin --delete tag 1.2.0
 
-git tag -d 1.1.1
+git tag -d 1.2.0
 
-git tag "1.1.1"
+git tag "1.2.0"
 
 git push --tag
 
