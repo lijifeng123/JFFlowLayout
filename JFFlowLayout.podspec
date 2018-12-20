@@ -20,9 +20,10 @@ Pod::Spec.new do |s|
   #项目的地址
   s.source       = { :git => "https://github.com/lijifeng123/JFFlowLayout.git", :tag => s.version }
   #需要包含的源文件
-  s.source_files  = "JFFlowLayout/JFFlowLayout/JFFlowLayout/*.{h,m}"
+  s.source_files  = "JFFlowLayout/JFFlowLayout/*.{h,m}"
+  s.dependency 'Masonry'
   #是否支持ARC
   s.requires_arc = true
-  s.dependency "Masonry"
+
 
 end
